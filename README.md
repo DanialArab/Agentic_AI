@@ -2,7 +2,7 @@
 
 1. [Intro](#1)
 2. [Degrees of autonomy](#2)
-3. 
+3. [Benefits of Agentic AI](#3)
 
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
@@ -26,8 +26,13 @@ Agents can be autonomous to different degrees:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/2.degrees_of_autonomy.png)
 
-There is an spectrum:
+There is a spectrum:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/3.autonomy_spectrum.png)
+
+## Benefits of Agentic AI
+
+HERE
+
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
