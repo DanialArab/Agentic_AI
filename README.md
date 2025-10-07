@@ -22,9 +22,12 @@
 Agents can be autonomous to different degrees:
 
 - Some agents can be less autonomous with a fully deterministic sequence of steps
-- In a more autonomous workflow, we let LLM decide if it needs to do a web search or uses different tools
+- In a more autonomous workflow, we let **LLM decides** if it needs to do a web search or use different tools
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/2.degrees_of_autonomy.png)
 
+There is an spectrum:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/3.autonomy_spectrum.png)
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
