@@ -5,7 +5,10 @@
 
 ## Intro
 
-![](https://github.com/DanialArab/images/blob/main/Agentic_AI/1.agentic_vs_non_agentic.png)
+- Agentic workflow can take longer but it provides better results
+- 
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/1.agentic_vs_non_agentic_2.png)
 
 
 
