@@ -32,7 +32,10 @@ There is a spectrum:
 
 ## Benefits of Agentic AI
 
-HERE
+- dd
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/coding_benchmark.png)
+
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
