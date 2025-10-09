@@ -32,9 +32,11 @@ There is a spectrum:
 
 ## Benefits of Agentic AI
 
-- 
+- Much better performance: The LLM with and withour agentic workflow's capability to write code is compared below:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/coding_benchmark.png)
+
+As shown above, wtapping GPT-3.5 within an agentic workflow can dramatically imporve its performance to write a computer program. In this case, different agentic techniques will be learbed in this course, which can be used to promot GPT-3.5 to write code and maybe reflect on the written code and figure out how to imporve it. This gives GPT-3.5 a much higher level of performance. Similarly, GPT-4 performance can also be dramatically improved in bagentic systems.
 
 Interestingly, the improvement through incorporating agenting workflow is much larger than the improvement from one LLM model generation to the next. 
 
@@ -42,7 +44,7 @@ Interestingly, the improvement through incorporating agenting workflow is much l
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/parallelization_for_speed.png)
 
-- Another benefit is modularity, like the capability to add or swap out components
+- Another benefit is modularity, like the capability to add or swap out components. This lets me combine the best of different components from many different places to build effective workflow. 
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/modularity.png)
 
