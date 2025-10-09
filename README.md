@@ -75,11 +75,19 @@ Here are some examples:
 
 When there is a clear process to follow it is easier for the agentic workflow to follow steps. If the required steps are not known ahead of time that would be more challenging for agentic workflows. Here is a good summary:
 
-
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/agentic_AI_suites_for.png)
 
 ## Task decomposition: identifying the steps in a workflow
 
-HERE
+Identifying the discrete steps forming the whole process is a key to build an agentic workflows. For each individual discrete step, I need to understand to complete this task which AI model or tool I can use to complete this step. If I cannot find any model or tool, I ask myself how I as a human can do this step through decomposing it further down to even smaller steps that then maybe they can be done with models or tools that I have. 
+
+One example of decomposing a task is shown below:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/extracting_info_from_invoice.png)
+
+And here is a summary of the building blocks I have to build an agentic workflow:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/building_blocks.png)
+
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
