@@ -11,6 +11,17 @@
 
 ## Intro
 
+ The four key agentic design patterns:
+
+- Reflection, in which an agent examines its own output and figures out how to improve it
+- Tool use, in which an LLM-driven application decides which functions to call to carry out web search, access calendars, send email, write code, etc. 
+- Planning, where you’ll use an LLM to decide how to break down a task into sub-tasks for execution, and
+- Multi-agent collaboration, in which you build multiple specialized agents — much like how a company might hire multiple employees — to perform a complex task.
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/4_key_agentic_design_patterns.png) 
+
+Source: The Batch newsletter from DeepLearning.ai
+
 - An agentic AI workflow is a process where an LLM-based app executes multiple steps to complete a task
 - Agentic workflow can take longer, but it provides better results
 
