@@ -32,9 +32,16 @@ There is a spectrum:
 
 ## Benefits of Agentic AI
 
-- dd
+- 
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/coding_benchmark.png)
+
+Interestingly, the improvement through incorporating agenting workflow is much larger than the improvement from one LLM model generation to the next. 
+
+- Another benefit of agentic workflows is that they can parallelize some tasks and so get them done much faster.
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/parallelization_for_speed.png)
+
 
 
 
