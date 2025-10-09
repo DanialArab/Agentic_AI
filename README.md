@@ -104,6 +104,13 @@ For the above error we can do below:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/evals.png)
 
+But because LLM outputs free text, it would sometimes be harder to do the evaluation like above. In this case, we can have LLM as a judge as a common technique to evaluate the output:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/llm_as_judge.png)
+
+LLMs are not that good at these 1 to 5 scale ratings, in a later module in the course we will discuss a better technique for this. 
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/evaluating_agentic_ai.png)
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
