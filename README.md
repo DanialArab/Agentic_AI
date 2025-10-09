@@ -92,6 +92,18 @@ And here is a summary of the building blocks I have to build an agentic workflow
 
 ## Evaluating Agentic AI (evals)
 
+Having a disciplined eval process is a big differentiator between a great engineer and an inefficient one to build agentic workflows. 
+
+Tips: Rather than having evals in advance, just look at the output and identify or look for things that you wish were better. For example, if the competitor name is repeatedly mentioned in the response like shown below:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/low_quality_output.png)
+
+So the best practice is to first build an agentic workflow, then examine the output to see the areas for improvement. 
+
+For the above error we can do below:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/evals.png)
+
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
