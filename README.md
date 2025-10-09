@@ -6,6 +6,7 @@
 4. [Types of applications we can build with Agentic workflows](#4)
 5. [Task decomposition: identifying the steps in a workflow](#5)
 6. [Evaluating Agentic AI (evals)](#6)
+7. [Agentic design patterns](#7)
 
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
@@ -112,5 +113,8 @@ LLMs are not that good at these 1 to 5 scale ratings, in a later module in the c
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/evaluating_agentic_ai.png)
 
+## Agentic design patterns
+
+HERE
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
