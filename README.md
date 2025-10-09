@@ -22,6 +22,11 @@
 
 Source: The Batch newsletter from DeepLearning.ai
 
+Having worked with many teams on many agents, I’ve found that the single biggest predictor of whether someone can build effectively is whether they know how to drive a disciplined process for evals and error analysis. Teams that don’t know how to do this can spend months tweaking agents with little progress to show for it. I’ve seen teams that spent months tuning prompts, building tools for an agent to use, etc., only to hit a performance ceiling they could not break through
+
+But if you understand how to put in evals and how to monitor an agent’s actions at each step (traces) to see when part of its workflow is breaking, you’ll be able to efficiently home in on which components to focus on improving. Instead of guessing what to work on, you'll let evals data guide you. 
+
+
 - An agentic AI workflow is a process where an LLM-based app executes multiple steps to complete a task
 - Agentic workflow can take longer, but it provides better results
 
