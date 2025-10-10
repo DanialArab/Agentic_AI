@@ -122,6 +122,27 @@ LLMs are not that good at these 1 to 5 scale ratings, in a later module in the c
 <a name="7"></a>
 ## Agentic design patterns
 
+We saw how to decompose a task into smaller steps, here, we want to kind of combine these building blocks to complete the task. 
+
+Major agentic design patterns:
+- Reflection
+- Tool use
+- Planning
+
+### Reflection
+
+It is a common design pattern where we ask LLM to examine its own outputs or maybe bringing some external sources of information like running the code and see if it generates any error messages and use that as feedback to iterate again and come up with a better version of itw own output. It is not a magic pattern to work 100% of the time but it could lead to a nice bump in the system performance. 
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/reflection.png)
+
+## Tool use
+
+This is just a function calling by LLM:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/tool_use_2.png)
+
+## Planning
+
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
