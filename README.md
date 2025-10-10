@@ -1,6 +1,6 @@
 # Agentic AI
 
-1. [Module 1](#1)
+1. [Module 1]
     1. [Intro](#1)
     2. [Degrees of autonomy](#2)
     3. [Benefits of Agentic AI](#3)
@@ -8,7 +8,7 @@
     5. [Task decomposition: identifying the steps in a workflow](#5)
     6. [Evaluating Agentic AI (evals)](#6)
     7. [Agentic design patterns](#7)
-2. [Module 2](#2)
+2. [Module 2]
     1. [here]
     2. 
 
