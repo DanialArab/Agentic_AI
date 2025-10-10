@@ -11,6 +11,7 @@
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
 
+<a name="1"></a>
 ## Intro
 
  The four key agentic design patterns:
@@ -38,6 +39,7 @@ But if you understand how to put in evals and how to monitor an agent’s action
 
 - We build a research agent
 
+<a name="2"></a>
 ## Degrees of autonomy
 Agents can be autonomous to different degrees:
 
@@ -50,6 +52,7 @@ There is a spectrum:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/3.autonomy_spectrum.png)
 
+<a name="3"></a>
 ## Benefits of Agentic AI
 
 - Much better performance: The LLM with and withour agentic workflow's capability to write code is compared below:
@@ -68,6 +71,7 @@ Interestingly, the improvement through incorporating agenting workflow is much l
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/modularity.png)
 
+<a name="4"></a>
 ## Types of applications we can build with Agentic workflows
 
 Here are some examples:
@@ -79,6 +83,7 @@ When there is a clear process to follow it is easier for the agentic workflow to
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/agentic_AI_suites_for.png)
 
+<a name="5"></a>
 ## Task decomposition: identifying the steps in a workflow
 
 Identifying the discrete steps forming the whole process is a key to build an agentic workflows. For each individual discrete step, I need to understand to complete this task which AI model or tool I can use to complete this step. If I cannot find any model or tool, I ask myself how I as a human can do this step through decomposing it further down to even smaller steps that then maybe they can be done with models or tools that I have. 
@@ -91,6 +96,7 @@ And here is a summary of the building blocks I have to build an agentic workflow
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/building_blocks.png)
 
+<a name="6"></a>
 ## Evaluating Agentic AI (evals)
 
 Having a disciplined eval process is a big differentiator between a great engineer and an inefficient one to build agentic workflows. 
@@ -113,8 +119,9 @@ LLMs are not that good at these 1 to 5 scale ratings, in a later module in the c
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/evaluating_agentic_ai.png)
 
+<a name="7"></a>
 ## Agentic design patterns
 
-HERE
+
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
