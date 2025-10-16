@@ -178,6 +178,7 @@ The reflection design pattern is not magic, and it may or may not lead to a smal
 
 This direct generation is also called Zero-shot prompting. 
 
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/zero_few_shot_prompting.png)
 
 
 Some notes:
