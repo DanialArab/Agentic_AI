@@ -171,8 +171,15 @@ Different LLMs have different strengths, e.g., reasoning models (also called thi
 
 The reflection design pattern is not magic, and it may or may not lead to a small bump in performance. One design consideration is that reflection is much more powerful if we can inject new, additional external information into the reflection process. For example, if we can run the code and have the error message as additional information in the reflection process, that would be very useful. **So keep in mind when you want to go with this design pattern, think of all the opportunities to inject additional external information into the reflection process.** 
 
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/reflection_with_external_feedback.png)
+
 <a name="11"></a>
-## Why not just direct generation?
+## Why not just direct generation? 
+
+Zero-shot prompting? 
+
+
+
 Some notes:
 - Sometimes, reasoning models are better for reflection rather than the non-reasoning models
 - 
