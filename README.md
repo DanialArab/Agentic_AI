@@ -8,9 +8,9 @@
     5. [Task decomposition: identifying the steps in a workflow](#6)
     6. [Evaluating Agentic AI (evals)](#7)
     7. [Agentic design patterns](#8)
-2. [Module 2](#9)
-    1. [here]
-    2. 
+2. [Module 2 - Reflection pattern](#9)
+    1. [Intro](#10)
+    2. [Why not just direct generation?](#11)
 
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
@@ -162,13 +162,17 @@ Just like a human manager who hires a number of others to work together on a com
 <a name="9"></a>
 # Module 2 - Reflection pattern  
 
+<a name="10"></a>
 ## Intro
 
 This design pattern is easy to implement. Just like us as humans, we reflect on what we produce LLMs can do the same. We may have an LLM write a first draft of an email and then ask a second LLM probably or the same model to critique the first draft and reflect on it. Or maybe we can get
 
 Different LLMs have different strengths, e.g., reasoning models (also called thinking models) are very good at finding bugs. And so when we ask one LLM to write a first version of code then maybe we can ask a second LLM which is preferably reasoning model to critique the version 1 and identify any potential bugs. We also can execute the code and then feed the second LLM with the observed error message, this would be very useful info for the LLM to improve the first version. 
 
+The reflection design pattern is not magic, and it may or may not lead to a small bump in performance. One design consideration is that reflection is much more powerful if we can inject new, additional external information into the reflection process. For example, if we can run the code and have the error message as additional information in the reflection process, that would be very useful. **So keep in mind when you want to go with this design pattern, think of all the opportunities to inject additional external information into the reflection process.** 
 
+<a name="11"></a>
+## Why not just direct generation?
 Some notes:
 - Sometimes, reasoning models are better for reflection rather than the non-reasoning models
 - 
