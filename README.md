@@ -193,6 +193,8 @@ Reflection improved the performance of different models on different tasks:
 
 As discussed, different LLMs have different strengths and so we need to use specific LLM for pecific task like generation or reflection (generally speaking, reasoning models are better for reflection):
 
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/different_llms_for_different_purpusoes.png)
+
 
 <a name="11"></a>
 ## Evaluating the impact of reflection 
