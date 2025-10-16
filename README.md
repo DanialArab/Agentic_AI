@@ -162,9 +162,19 @@ Just like a human manager who hires a number of others to work together on a com
 <a name="9"></a>
 # Module 2 - Reflection pattern  
 
+## Intro
+
+This design pattern is easy to implement. Just like us as humans, we reflect on what we produce LLMs can do the same. We may have an LLM write a first draft of an email and then ask a second LLM probably or the same model to critique the first draft and reflect on it. Or maybe we can get
+
+Different LLMs have different strengths, e.g., reasoning models (also called thinking models) are very good at finding bugs. And so when we ask one LLM to write a first version of code then maybe we can ask a second LLM which is preferably reasoning model to critique the version 1 and identify any potential bugs. We also can execute the code and then feed the second LLM with the observed error message, this would be very useful info for the LLM to improve the first version. 
+
+
 Some notes:
 - Sometimes, reasoning models are better for reflection rather than the non-reasoning models
 - 
+
+Evaluating the impact of reflection 
+
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
