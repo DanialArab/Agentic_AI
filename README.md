@@ -11,6 +11,7 @@
 2. [Module 2 - Reflection pattern](#9)
     1. [Intro](#10)
     2. [Why not just direct generation (Zero-shot prompting)?](#11)
+    3. [Evaluating the impact of reflection](#12)
 
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
@@ -184,12 +185,18 @@ Reflection improved the performance of different models on different tasks:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/reflection_improvement.png)
 
-Some notes:
-- Sometimes, reasoning models are better for reflection rather than the non-reasoning models
-- 
+2 good points to consider when applying the reflection:
+- Clearly indicate the reflection action
+- Specify criteria to check
 
-Evaluating the impact of reflection 
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/reflection_pattern.png)
+
+As discussed, different LLMs have different strengths and so we need to use specific LLM for pecific task like generation or reflection (generally speaking, reasoning models are better for reflection):
 
 
+<a name="11"></a>
+## Evaluating the impact of reflection 
+
+HERE
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
