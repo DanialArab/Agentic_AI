@@ -160,9 +160,11 @@ The model automatically decised and creates a sequence of actions which may requ
 Just like a human manager who hires a number of others to work together on a complex project in some cases it might make sense for you to hire a set of multiple agents each of which specializes in different roles and have them work together to accomplish a complex task
 
 <a name="9"></a>
-# Module 2
+# Module 2 - Reflection pattern  
 
-HERE
+Some notes:
+- Sometimes, reasoning models are better for reflection rather than the non-reasoning models
+- 
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
