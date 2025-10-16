@@ -180,6 +180,9 @@ This direct generation is also called Zero-shot prompting.
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/zero_few_shot_prompting.png)
 
+Reflection improved the performance of different models on different tasks: 
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/reflection_improvement.png)
 
 Some notes:
 - Sometimes, reasoning models are better for reflection rather than the non-reasoning models
