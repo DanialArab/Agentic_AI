@@ -10,7 +10,7 @@
     7. [Agentic design patterns](#8)
 2. [Module 2 - Reflection pattern](#9)
     1. [Intro](#10)
-    2. [Why not just direct generation?](#11)
+    2. [Why not just direct generation (Zero-shot prompting)?](#11)
 
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
@@ -174,9 +174,9 @@ The reflection design pattern is not magic, and it may or may not lead to a smal
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/reflection_with_external_feedback.png)
 
 <a name="11"></a>
-## Why not just direct generation? 
+## Why not just direct generation (Zero-shot prompting)? 
 
-Zero-shot prompting? 
+This direct generation is also called Zero-shot prompting. 
 
 
 
