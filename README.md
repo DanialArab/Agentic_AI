@@ -13,6 +13,8 @@
     2. [Why not just direct generation (Zero-shot prompting)?](#11)
     3. [Evaluating the impact of reflection](#12)
     4. [Reflection with external feedback](#13)
+3. [Module 3 - tool use](#14)
+   1. [](#15)
 
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
@@ -235,7 +237,12 @@ Here is a good summary of objective vs subjective evals:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/ROI_on_prompt_eng.png)
 
+We can write some codes to help find additional facts to feed in the reflection LLM in order to hopefully improve the LLM output.:
 
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/some_external_feedback.png)
+
+<a name="14"></a>
+## Module 3 - tool use
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
