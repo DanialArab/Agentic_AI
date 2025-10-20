@@ -235,6 +235,8 @@ Here is a good summary of objective vs subjective evals:
 <a name="13"></a>
 ## Reflection with external feedback
 
+Providing LLM with an external info/feedback could be really useful: 
+
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/ROI_on_prompt_eng.png)
 
 We can write some codes to help find additional facts to feed in the reflection LLM in order to hopefully improve the LLM output.:
