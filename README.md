@@ -216,6 +216,10 @@ To evaluate this, we may get some ground truth, as shown above, and then do the 
 
 ### Subjective evals
 
+So far we had the right answer ot each query like the number of items sold, etc. like we had the objective evals. Howver, we sometimes do not have that objective evals. Forexample when we get LLM to generate a code formplotting and so in this case we have subjective criteria and so we have the subjective evals. In this case, we may feed the 2 plots to a MoltoModal LLM and ask which one is better. This is not the right approach usually because of lack of clarity in the prompt. We end up having below issue in this regard:
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/subjective_evals_2.png)
+
 Usually, we get another LLM as a judge, 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
