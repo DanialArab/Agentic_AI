@@ -12,6 +12,7 @@
     1. [Intro](#10)
     2. [Why not just direct generation (Zero-shot prompting)?](#11)
     3. [Evaluating the impact of reflection](#12)
+    4. [Reflection with external feedback](#13)
 
 - This course is on the **Best practices to build Agentic AI application.**
 - **Driving a disciplined development process, specifically one focused on evals and error analysis,** is the main skill that distinguishes between really good engineers rather than people only talking about Agentic AI. 
@@ -196,7 +197,7 @@ As discussed, different LLMs have different strengths and so we need to use a sp
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/different_llms_for_different_purpusoes.png)
 
 
-<a name="11"></a>
+<a name="12"></a>
 ## Evaluating the impact of reflection 
 
 I need to double-check how much reflection can improve the performance because it usually slows down a system a bit. 
@@ -227,6 +228,12 @@ On the other hand, the better approach is to vget LLM as a judge and have a grad
 Here is a good summary of objective vs subjective evals:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/evaluating_reflection.png)
+
+
+<a name="13"></a>
+## Reflection with external feedback
+
+
 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
