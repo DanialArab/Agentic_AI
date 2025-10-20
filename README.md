@@ -220,7 +220,7 @@ So far we had the right answer ot each query like the number of items sold, etc.
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/subjective_evals_2.png)
 
-On the other hand, the better approach is to vget LLM as a judge and have a graifn system with a given rubric, which gives more consistent results: like instead of wanting LLM to provide a score between 0 and 5 provide her with a 5 criteria, binary criteria for example, where each could be False or True and then we can ask for the score between 0 and 5 which is the summation of all the 5 binary scores. This will usually provide more consistent results, more details belwo:
+On the other hand, the better approach is to vget LLM as a judge and have a grading system with a given rubric, which gives more consistent results: like instead of wanting LLM to provide a score between 0 and 5 provide her with a 5 criteria, binary criteria for example, where each could be False or True and then we can ask for the score between 0 and 5 which is the summation of all the 5 binary scores. This will usually provide more consistent results, more details belwo:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/grading_with_rubric.png)
 
