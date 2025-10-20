@@ -191,7 +191,7 @@ Reflection improved the performance of different models on different tasks:
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/reflection_pattern.png)
 
-As discussed, different LLMs have different strengths and so we need to use specific LLM for pecific task like generation or reflection (generally speaking, reasoning models are better for reflection):
+As discussed, different LLMs have different strengths and so we need to use a specific LLM for specific task like generation or reflection (generally speaking, reasoning models are better for reflection):
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/different_llms_for_different_purpusoes.png)
 
@@ -207,7 +207,11 @@ We generally have 2 concepts:
 
 ### Objective evals
 
+We may get an LLM to generate a SQL query for us, then we can use that directly to fetch data from the database. Or we may reflect upon it and get another LLM to reflect on the query and then execute the query
+
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/objective_eval.png)
+
+To evaluate this we may get some ground truth, as shown above, and then do the evals. 
 
 ### Subjective evals
 
