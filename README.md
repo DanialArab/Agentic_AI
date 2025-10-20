@@ -199,6 +199,18 @@ As discussed, different LLMs have different strengths and so we need to use spec
 <a name="11"></a>
 ## Evaluating the impact of reflection 
 
-HERE
+I need to double-check how much reflection can improve the performance because it usually slows down a system a bit. 
+
+We generally have 2 concepts:
+1. Objective evals
+2. Subjective evals
+
+### Objective evals
+
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/objective_eval.png)
+
+### Subjective evals
+
+Usually, we get another LLM as a judge, 
 
 Reference: https://www.deeplearning.ai/courses/agentic-ai/?utm_campaign=Short%20Course%20Announcements&utm_medium=email&_hsenc=p2ANqtz-96j0nIG5ukADk--vE0_v8FrNwu6KCV7SaUd1_Cyb0F6J5dPRBMX5B5bz7Bbulmld3CUaJ4DRpQB3cNV_rhKFdVNUJrWw&_hsmi=384075443&utm_content=384075443&utm_source=hs_email
