@@ -233,6 +233,8 @@ Here is a good summary of objective vs subjective evals:
 <a name="13"></a>
 ## Reflection with external feedback
 
+![](https://github.com/DanialArab/images/blob/main/Agentic_AI/ROI_on_prompt_eng.png)
+
 
 
 
