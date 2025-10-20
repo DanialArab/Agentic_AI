@@ -211,7 +211,8 @@ We may get an LLM to generate a SQL query for us, then we can use that directly 
 
 ![](https://github.com/DanialArab/images/blob/main/Agentic_AI/objective_eval.png)
 
-To evaluate this we may get some ground truth, as shown above, and then do the evals. 
+To evaluate this, we may get some ground truth, as shown above, and then do the evals and get the percentage of the correct queries. One thing I may need to do is to re-write the reflection prompt like adding instruction to the reflection prompt to makke the database query run faster or make it cleared or just having different ideas to re-write the initial or reflection prompts. Doing so, I will be able to evals the performance of different prompts. It is important to have a systematic way to eval performabce of different prompts letting me being able to choose between different prompts. 
+
 
 ### Subjective evals
 
